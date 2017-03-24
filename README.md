@@ -13,3 +13,7 @@ Navigate to the file install.py either with the command prompt or GUI.
 ```
 
 Read the instructions.
+
+## Bonus
+
+On each installation run (option 2,1) a log.txt is created which is presentated after installation. 
