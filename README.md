@@ -20,7 +20,7 @@ Read the instructions.
 
 ## Bonus
 
-On each installation run (option 2,1) a log.txt is created which is presentated after installation.
+On each installation run (option 2,1) a log.txt is created which is presented after installation.
 
 Read the instructions presented by ```install.py```.
 
