@@ -2,7 +2,6 @@ import subprocess
 import sys
 import os,Tkinter, time, re
 import timeit
-import tester.py
 from tkFileDialog import askdirectory
 
 '''
