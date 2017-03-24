@@ -28,7 +28,7 @@ global apkDirectory
 apkDirectory = 0
 def overview():
     subprocess.call(['cls'], shell=True)
-    print("\n##################################################################\n\n#  Welcome to Tabception: multiple android device installer     #\n\n##################################################################\n")
+    print("\n##################################################################\n\n#  Welcome to Octodroid: multiple android device installer     #\n\n##################################################################\n")
     global apkDirectory
     if apkDirectory != 0:
         print'APK directory is: ', apkDirectory
