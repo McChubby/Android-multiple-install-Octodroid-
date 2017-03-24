@@ -167,7 +167,7 @@ def overview():
            install_options()
 
 
-    menuOption = input('\nYour input is required:\n1 = Select the APK folder\n2 = Select the range of devices\n3 = Run through all the steps\n4 = To exit the script\n')
+    menuOption = input('\nYour input is required:\n1 = Select the APK folder\n2 = Install to devices\n3 = Run through all the steps\n4 = To exit the script\n')
     if menuOption == 1:
         # start file selection function
         # when option 1 is selected, start this function
