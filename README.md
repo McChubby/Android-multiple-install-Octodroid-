@@ -16,4 +16,8 @@ Navigate to the file install.py either with the command prompt or GUI.
   python install.py
 ```
 
-Read the instructions.
+Read the instructions presented by ```install.py```.
+
+enjoy,
+
+McChubby
